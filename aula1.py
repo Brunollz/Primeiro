@@ -1,4 +1,4 @@
-
+parede=5
 km=input('quantos km foram percorridos?')
 horas=input('quantas horas levou a viagem?')
 
