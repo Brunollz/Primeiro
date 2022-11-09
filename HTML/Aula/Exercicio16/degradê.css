@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body 
+{ 
+    background-image:linear-gradient(to right, white, blue); /*alem do to right, tambem pode ser usado o numero de graus exemplo: "90deg" "50deg" */
+}
+h1
+{
+    background-image: linear-gradient(to left, rgb(255, 255, 255), rgb(228, 69, 191));
+    
+}
