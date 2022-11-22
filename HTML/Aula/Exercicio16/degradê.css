@@ -2,10 +2,14 @@
 
 body 
 { 
-    background-image:linear-gradient(to right, white, blue); /*alem do to right, tambem pode ser usado o numero de graus exemplo: "90deg" "50deg" */
+    background: url(../05-15.png);
+    background-image:linear-gradient(to right, rgb(249, 140, 140), rgb(194, 255, 197)); /*alem do to right, tambem pode ser usado o numero de graus exemplo: "90deg" "50deg" */
 }
 h1
 {
-    background-image: linear-gradient(to left, rgb(255, 255, 255), rgb(228, 69, 191));
-    
+    background-image:linear-gradient(to left, rgb(249, 140, 140), rgb(194, 255, 197));
+}
+p
+{
+    background-image:linear-gradient(to left, rgb(249, 140, 140), rgb(194, 255, 197));
 }

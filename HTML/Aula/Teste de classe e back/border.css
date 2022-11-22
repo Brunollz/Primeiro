@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+h1
+{
+    border: 20px solid orange;
+}
+.border 
+{
+    border: 3px solid rgb(209, 61, 61);
+    border-radius: 20px;
+    
+}
+.border2
+{
+    border-bottom: 7px dashed green;
+    
+}
+.border3
+{
+    border-top: 4px dotted yellow;
+}
+.bunda
+{
+    color: deeppink;
+}

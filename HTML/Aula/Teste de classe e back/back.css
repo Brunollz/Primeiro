@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body 
+{ 
+    background: rgb(237, 183, 183) url(../05-15.png) center;
+   
+}
+.back 
+{
+    background: rgb(227, 190, 190) url(../732212.png) center;
+
+}
+.back2
+{
+    background: rgb(243, 233, 199);
+}

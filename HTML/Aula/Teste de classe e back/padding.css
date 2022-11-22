@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.botao
+{
+    background-color: aqua;
+    padding: 20px;
+    margin-left: 300px;
+    color: rgb(134, 218, 211);
+    border-radius: 10%;
+    text-decoration: none;
+    font-family:fantasy;
+}
+.botao:hover{
+    background-color: rgb(157, 189, 211);
+}
+
